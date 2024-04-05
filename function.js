@@ -62,6 +62,7 @@ window.function = function (html, fileName, format, zoom, orientation, margin, b
 		ledger: [2551, 1648],
 		tabloid: [1648, 2551],
 		credit_card: [319, 508],
+		v88: [1240, 5262],
 	};
 
 	// GET FINAL DIMESIONS FROM SELECTED FORMAT
